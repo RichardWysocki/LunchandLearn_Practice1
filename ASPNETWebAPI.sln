@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETWebAPI", "ASPNETWebAPI\ASPNETWebAPI.csproj", "{C6EDC5AD-E6DF-483C-B9EB-E3A494D2BAE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{512E8DB8-F62D-4B4F-844F-80F49603EC65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Standard.ClassLibrary", "Standard.ClassLibrary\Standard.ClassLibrary.csproj", "{7C6F83A7-3C1E-4DE7-A87E-4BBD47B391CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C6EDC5AD-E6DF-483C-B9EB-E3A494D2BAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6EDC5AD-E6DF-483C-B9EB-E3A494D2BAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6EDC5AD-E6DF-483C-B9EB-E3A494D2BAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512E8DB8-F62D-4B4F-844F-80F49603EC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512E8DB8-F62D-4B4F-844F-80F49603EC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512E8DB8-F62D-4B4F-844F-80F49603EC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512E8DB8-F62D-4B4F-844F-80F49603EC65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6F83A7-3C1E-4DE7-A87E-4BBD47B391CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6F83A7-3C1E-4DE7-A87E-4BBD47B391CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6F83A7-3C1E-4DE7-A87E-4BBD47B391CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6F83A7-3C1E-4DE7-A87E-4BBD47B391CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
